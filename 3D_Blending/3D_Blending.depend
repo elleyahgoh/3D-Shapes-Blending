@@ -1,0 +1,537 @@
+# depslib dependency file v1.0
+1505588828 source:c:\users\alvinckx\desktop\_fyp\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1505574688 c:\users\alvinckx\desktop\_fyp\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1505588885 source:c:\users\alvinckx\desktop\_fyp\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+
+1505588885 source:c:\users\alvinckx\desktop\_eol\_fyp2\_qwertybu\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+
+1516562620 c:\users\alvinckx\desktop\_eol\_fyp2\_qwertybu\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1516562861 source:c:\users\alvinckx\desktop\_eol\_fyp2\_qwertybu\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517834897 source:c:\users\alvinckx\desktop\_eol\_fyp2\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1517087351 c:\users\alvinckx\desktop\_eol\_fyp2\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1517834998 source:c:\users\alvinckx\desktop\_eol\_fyp2\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517079707 source:c:\users\alvinckx\desktop\_eol\_fyp2\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517080286 c:\users\alvinckx\desktop\_eol\_fyp2\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1517085806 source:h:\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1517087351 h:\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1517080286 h:\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1517156186 source:h:\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517079707 source:h:\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517085806 source:f:\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1517087351 f:\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1517080286 f:\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1517156186 source:f:\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517079707 source:f:\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517156186 source:c:\users\acer\desktop\_eol\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517087351 c:\users\acer\desktop\_eol\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1517079707 source:c:\users\acer\desktop\_eol\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517080286 c:\users\acer\desktop\_eol\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1517420860 source:c:\users\acer\desktop\_eol\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1517834998 source:c:\users\acer\desktop\_fyp2\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517087351 c:\users\acer\desktop\_fyp2\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1517079707 source:c:\users\acer\desktop\_fyp2\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1517080286 c:\users\acer\desktop\_fyp2\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1517986383 source:c:\users\acer\desktop\_fyp2\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1581847418 source:c:\users\user\desktop\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1581847762 c:\users\user\desktop\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1576847501 c:\users\user\desktop\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1581847418 source:c:\users\user\desktop\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1576847501 source:c:\users\user\desktop\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1581847764 source:c:\users\dr. ng kok why\desktop\elleyah\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1581847764 c:\users\dr. ng kok why\desktop\elleyah\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1576847502 c:\users\dr. ng kok why\desktop\elleyah\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1581847764 source:c:\users\dr. ng kok why\desktop\elleyah\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1576847502 source:c:\users\dr. ng kok why\desktop\elleyah\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1581847764 source:f:\fyp2\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1581847764 f:\fyp2\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1576847502 f:\fyp2\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1581847764 source:f:\fyp2\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1576847502 source:f:\fyp2\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1581997944 source:e:\fyp2\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1581966266 e:\fyp2\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1576847502 e:\fyp2\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1581966608 source:e:\fyp2\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1576847502 source:e:\fyp2\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1583075444 source:f:\university work\fyp2\3d_blending\3d_blending.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<GL/glui.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	"vertex_mod.h"
+
+1581966266 f:\university work\fyp2\3d_blending\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1576847502 f:\university work\fyp2\3d_blending\vertex_mod.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	"vertex.h"
+
+1581966608 source:f:\university work\fyp2\3d_blending\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1576847502 source:f:\university work\fyp2\3d_blending\vertex_mod.cpp
+	"vertex_mod.h"
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
